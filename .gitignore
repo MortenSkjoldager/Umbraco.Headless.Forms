@@ -1,0 +1,7 @@
+src/bin/
+src/node_modules/
+src/obj/
+src/umbraco/Data/TEMP/
+src/umbraco/Data/
+src/.vs/
+src/.idea/
